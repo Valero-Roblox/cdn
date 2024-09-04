@@ -1,2 +1,2 @@
 # Valero CDN
-private repo for the cdn
+Valero Content Delivery Network
